@@ -1,6 +1,6 @@
 # UNG AI Assistant
 
-AI academic assistant built to help students at the **University of North Georgia** answer questions about their education — powered by RAG (Retrieval-Augmented Generation) and local LLM inference.
+AI academic assistant built to help students at the **University of North Georgia** answer questions about their education, powered by RAG (Retrieval-Augmented Generation) and local LLM inference.
 
 ## What It Does
 
